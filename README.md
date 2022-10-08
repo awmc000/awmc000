@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awmc000
 - 👀 I’m interested in learning to develop embedded systems and automation.
-- 🌱 I’m currently studying computer science as a whole and learning Java.
-- 💞️ I’m looking to collaborate on my data structure diagrammer, and other Java projects!
+- 🌱 I’m currently studying computer science as a whole and learning software engineering principles and practice.
+- 💞️ I’m looking to collaborate on my data structure diagrammer, and other Java/C++/C projects!
 - 📫 Reach me by email @ mccolmalex@gmail.com
 
 <!---
