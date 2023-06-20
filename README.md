@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awmc000
-- 👀 I’m interested in learning more about data structures and algorithms, networking, computer architecture, and much more! 
-- 🌱 I’m currently studying computer science as a whole and learning software engineering principles and practice.
-- 💞️ I’m looking to collaborate on my data structure diagrammer, and other Java/C++/C projects!
+- 👀 I’m interested in learning more data structures and algorithms, and about networking and computer architecture.
+- 🌱 I’m currently studying computer science as a whole and programming in my free time.
+- 💞️ Interested in collaborating on all sorts of programs!
 - 📫 Reach me by email @ mccolmalex@gmail.com
 
 <!---
