@@ -1,6 +1,6 @@
 - Software Developer Intern @ Foreseeson Technology.
 - Working primarily in the areas of backend web development, Odoo ERP, and cloud platforms.
-- Interested also in operating systems, low level network programming.
+- Interested also in Vintage Story modding, emulation, operating systems, low level network programming.
 - Native EN, low intermediate ZH, high beginner FR.
 
 <!---
